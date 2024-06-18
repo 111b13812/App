@@ -21,7 +21,7 @@
 ## 資料來源
 
 資料來源於政府公開資料平台：
-- [測速執法設置點資料]([https://data.gov.tw/dataset/7320])
+- [測速執法設置點資料](https://data.gov.tw/dataset/7320)
 
 ## 執行結果畫面
 
