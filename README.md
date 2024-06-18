@@ -27,11 +27,11 @@
 
 ### 主畫面
 
-![Main Screen](imags/P1.png)
+![Main Screen](images/P1.png)
 
 ### 詳細信息畫面
 
-![Detail Screen](imags/P2.png)
+![Detail Screen](images/P2.png)
 
 ## 如何運行
 
